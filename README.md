@@ -6,7 +6,7 @@ I'm a passionate Backend Developer specializing in JavaScript technologies, curr
 
 🔭 Current Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,postman,linux,git&theme=dark)](https://skillicons.dev)
 
 🌱 I’m currently learning 
 
