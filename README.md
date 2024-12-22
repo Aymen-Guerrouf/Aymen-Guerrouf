@@ -10,7 +10,7 @@ I'm a passionate Backend Developer specializing in JavaScript technologies, curr
 
 🌱 I’m currently learning 
 
-[![My Skills](https://skillicons.dev/icons?i=NestJs,postgresql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,postgresql&theme=dark)](https://skillicons.dev)
 
 
 
