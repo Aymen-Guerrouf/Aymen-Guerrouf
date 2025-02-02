@@ -6,11 +6,11 @@ I'm a passionate Backend Developer specializing in JavaScript technologies, curr
 
 🔭 Current Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,mongodb,postman,linux,git,graphql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,mongodb,,postgresqlpostman,linux,git,graphql&theme=dark)](https://skillicons.dev)
 
 🌱 I’m currently learning 
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,postgresql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs&theme=dark)](https://skillicons.dev)
 
 
 
